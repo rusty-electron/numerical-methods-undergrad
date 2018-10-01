@@ -1,6 +1,6 @@
 # Computer Oriented Numerical Methods - EE543
 
-The following is the content of EE543 of my Undergraduate degree course. We were required to take up one problem statement every week and code the C-implementation for the same. 
+The following is the content of EE543 of my Undergraduate degree course. We were required to take up one problem statement every week and code the C-implementations for the same. 
 
 ## Introduction
 
