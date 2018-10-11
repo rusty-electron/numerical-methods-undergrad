@@ -44,4 +44,22 @@ The student will learn the iterative process of solving a set of linear algebrai
 
 The written codes to be tested for at least three different sets of equation. The students should also see the difference of solution with and without performing the partial pivoting.
 
+## Lab 5:  Solution of  non-linear equation using N-R method
+This lab is aimed at developing concept of Newton Raphson Iteration method for solution of non-linear equation.  The student will develop algorithm and write C-codes for solution of:
+
+1. Single variable non –linear equation
+1. A set of non-linear equations
+
+The written codes to be tested for at least two different sets of equation  each for single variable and set of non-linear equations.
+
+## Lab 6:	Numerical Integration
+* To write C-code to find the integration of the given tabular value (stored in a file)  using Trapezoidal rule
+* To write C-code to find the integration of the given tabular value (stored in a file)  using Simpson’s 1/3 rd rule
+
+Both the rules are to be used for the same set of data values and the results are to be compared.
+
+## Lab 7: 	 Numerical Solution of differential equations using Taylor series
+To write C-codes to find the solution of an ODE using Taylor series.
+
+
 
